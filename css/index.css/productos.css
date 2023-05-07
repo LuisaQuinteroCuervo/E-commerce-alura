@@ -1,0 +1,70 @@
+/* PRODUCTOS*/
+
+.productos {
+    background: #F9F1E7;
+    padding-top: 0.40rem;
+    padding-bottom: 0.50rem;
+
+
+}
+
+.productos__titulo {
+    font-family: Quattrocento;
+    font-size: 2rem;
+    color: #7E4847;
+}
+
+.producto__ver {
+    font-size: 1rem;
+    font-family: Quattrocento;
+    color: #F68977;
+    float: right;
+    cursor: pointer;
+}
+
+.producto__nav{
+    box-sizing: border-box;
+}
+
+.productos__contenido {
+    text-align: center;
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.producto__img {
+    border-radius: 20%;
+}
+
+.producto__name {
+    color: #7E4847;
+    font-family: Trocchi;
+    font-size: 0.8rem;
+}
+
+.producto__precio {
+    font-family: Trocchi;
+    font-size: 0.8rem;
+}
+
+.producto__btn {
+    color: #F68977;
+    font-size: 0.8rem;
+    font-family: Trocchi;
+    cursor: pointer;
+}
+
+@media screen and ( min-width: 0) {
+    .productos__contenido{
+    display: block;
+    
+}
+}
+
+@media screen and ( min-width: 700px) {
+    .productos__contenido{
+        display: flex;
+    }
+}

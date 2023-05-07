@@ -1,0 +1,52 @@
+/* RODAPIE */
+
+.rodapie {
+    background: #FFFBF7;
+    padding-top: 0.40rem;
+    padding-bottom: 0.50rem;
+    
+}
+
+.rodapie__contenido {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.rodapie__somos {
+    font-family: Trocchi;
+    color: #464646;
+}
+
+.rodapie__titulo {
+    color: #7E4847;
+    font-family: Trocchi;
+}
+
+.rodapie__btn {
+    color: #7E4847;
+    font-family: Trocchi;
+    text-align: center;
+    font-size: .7rem;
+    padding: 10px 15px;
+    background-color: #F1C49F;
+    border-radius: 10%;
+    cursor: pointer;
+    border: 1px solid #F1C49F;
+}
+
+
+@media screen and ( min-width: 0) {
+    .rodapie__contenido{
+    display: block;
+}
+}
+
+
+@media screen and ( min-width: 700px) {
+    .rodapie__contenido{
+        display: flex;
+    }
+}

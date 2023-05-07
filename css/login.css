@@ -1,0 +1,102 @@
+.cabeceras{
+    padding-right: 5rem;
+    padding-left: 15rem;
+    width: 100%;
+    background: #FFFBF7; 
+    box-sizing: border-box;
+    align-items: center;
+    padding-top: 0.2rem;
+    padding-bottom: 0.2rem;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+@media screen and (min-width: 0) {
+    .cabeceras {
+        display: block;
+        padding-left: 1rem;
+        padding-top: 0.2rem;
+        padding-bottom: 1rem;
+    }
+    
+}
+
+
+@media screen and (min-width: 700px) {
+    .cabeceras {
+        display: flex;
+    }
+
+    
+}
+
+
+
+
+
+
+
+
+.login{
+    text-align: center;
+    height: 300px;
+    margin: auto;
+    padding: 20px 30px;
+}
+
+.titulo__login{
+    font-family: Ibarra Real Nova;
+    font-size: 1.8rem;
+    text-align: center;
+    color: #7E4847;
+}
+
+
+.input__usuario{
+
+    background-color: #FFFFFF;
+    padding: 10px 15px;
+    width: 300px;
+    border-radius: 10px;
+    border: 1px solid #F1C49F;
+    outline: none;
+    font-family: Trocchi;
+    color:#464646;
+    margin-bottom: 15px;
+}
+
+::placeholder{
+    font-family: Ibarra Real Nova;
+    color:#7E4847;
+    text-align: center;
+}
+
+
+.input__ingre{
+    background-color: #F1C49F;
+    padding: 8px 30px;
+    border-radius: 10px;
+    outline: none;
+    font-family: Trocchi;
+    color:#7E4847;
+    margin-bottom: 15px;
+    cursor: pointer;
+    text-decoration: none;
+    font-size: 0.8rem;
+    border: 1px solid #F1C49F;
+}
+
+@media screen and (min-width: 0) {
+    .input__usuario{
+        width: 200px
+    }
+
+}
+
+@media screen and (min-width: 700px) {
+    .input__usuario{
+        width: 340px;
+    }
+
+    
+}

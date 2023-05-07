@@ -1,0 +1,130 @@
+{
+  "productos": [
+    {
+      "nombre": "Kiraide Isasete",
+      "precio": "40.000",
+      "descripcion": "yaoi",
+      "imagen": "https://ramenparados.com/wp-content/uploads/2022/12/kiraide-kisasete-vol1.jpg",
+      "id": "1"
+    },
+    {
+      "nombre": "Amor Boracho",
+      "precio": "45.000",
+      "descripcion": "yaoi",
+      "imagen": "https://otakuteca.com/images/books/cover/61fb6761582fa.jpg",
+      "id": "2"
+    },
+    {
+      "nombre": "Kiss me Liar",
+      "precio": "50.000",
+      "descripcion": "yaoi",
+      "imagen": "https://otakuteca.com/images/books/cover/5e7d7a8674f58.jpg",
+      "id": "3"
+    },
+    {
+      "nombre": "Un Chico Como tu",
+      "precio": "40.000",
+      "descripcion": "yaoi",
+      "imagen": "https://otakuteca.com/images/books/cover/5ba31f9105085.jpg",
+      "id": "5"
+    },
+    {
+      "nombre": "Yukidoke No Koi",
+      "precio": "35.000",
+      "descripcion": "yaoi",
+      "imagen": "https://otakuteca.com/images/books/cover/5d1871ddd8f9c.jpg",
+      "id": "6"
+    },
+    {
+      "imagen": "https://otakuteca.com/images/books/cover/10325_TMOmanga094046.jpg",
+      "nombre": "Orangeee",
+      "precio": "50.000",
+      "descripcion": "shojoooo",
+      "id": "7"
+    },
+    {
+      "nombre": "Kamisama Hajimemashita",
+      "precio": "45.000",
+      "descripcion": "shojo",
+      "imagen": "https://upload.wikimedia.org/wikipedia/en/9/92/KamisamaKiss1.jpg",
+      "id": "8"
+    },
+    {
+      "nombre": "Banana Fish",
+      "precio": "45.000",
+      "descripcion": "shojo",
+      "imagen": "https://ramenparados.com/wp-content/uploads/2019/07/Banana-Fish-1-300x407.jpg",
+      "id": "9"
+    },
+    {
+      "nombre": "Watashi ga Motete Dosunda",
+      "precio": "36.000",
+      "descripcion": "shojo",
+      "imagen": "https://otakuteca.com/images/books/cover/5c9b1d44112b5.jpg",
+      "id": "10"
+    },
+    {
+      "nombre": "Ore Monogatari!!",
+      "precio": "38.000",
+      "descripcion": "shojo",
+      "imagen": "https://ramenparados.com/wp-content/uploads/2015/11/ore-monogatari1-300x441.png",
+      "id": "11"
+    },
+    {
+      "nombre": "Tonari no Kaibutsu-kun",
+      "precio": "38.000",
+      "descripcion": "shojo",
+      "imagen": "https://otakuteca.com/images/books/cover/5d1b2a86a41c3.jpg",
+      "id": "12"
+    },
+    {
+      "nombre": "Monster",
+      "precio": "60.000",
+      "descripcion": "shonenseinen",
+      "imagen": "https://images.cdn1.buscalibre.com/fit-in/360x360/e5/9c/e59cf0e4dd1d3b89df9edc200ae80a03.jpg",
+      "id": "13"
+    },
+    {
+      "nombre": "Naruto",
+      "precio": "48.000",
+      "descripcion": "shonenseinen",
+      "imagen": "https://otakuteca.com/images/books/cover/617ebf11e0cdf.jpg",
+      "id": "14"
+    },
+    {
+      "nombre": "kuroshitsuji",
+      "precio": "48.000",
+      "descripcion": "shonenseinen",
+      "imagen": "https://inmanga.com/thumbnails/manga/Kuroshitsuji/877888db-0857-444c-886d-6bc1e5a9104a",
+      "id": "15"
+    },
+    {
+      "nombre": "Hellsing",
+      "precio": "44.000",
+      "descripcion": "shonenseinen",
+      "imagen": "https://otakuteca.com/images/books/cover/5b7dd96d80875.jpg",
+      "id": "16"
+    },
+    {
+      "nombre": "One Piece",
+      "precio": "45.000",
+      "descripcion": "shonenseinen",
+      "imagen": "https://http2.mlstatic.com/D_NQ_NP_998488-MCO49477071246_032022-O.jpg",
+      "id": "17"
+    },
+    {
+      "nombre": "Uzumaki",
+      "precio": "60.000",
+      "descripcion": "shonenseinen",
+      "imagen": "https://images.cdn3.buscalibre.com/fit-in/360x360/82/f9/82f93ec91ed152fa47fa453fffd93896.jpg",
+      "id": "18"
+    },
+    {
+      "imagen": "https://otakuteca.com/images/books/cover/61f573a5d4630.jpg",
+      "nombre": "Mi segundo esposo es deprimente",
+      "precio": "40.000",
+      "descripcion": "shouju",
+      "id": "4f85116c-9b86-4e9f-bf35-80ef571073a7"
+    }
+  ]
+}

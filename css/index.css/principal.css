@@ -1,0 +1,44 @@
+/* Titulo y Fondo Principal*/
+
+.tifondo {
+    
+    padding-top: 12.25rem;
+    padding-bottom: 4.5rem;
+    background-image: url(../index.css/fondo_kami.png);
+    background-size: cover;
+    background-position: center center;
+    height: 60vh;
+    
+
+}
+
+.tifondo__titulo {
+    font-family: Quattrocento;
+    
+}
+
+@media screen and (min-width: 0 ) {
+    .tifondo{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        
+    }
+    .tifondo__titulo{
+        text-align: right;
+        font-size: 3rem;
+        color: #F68977;
+    }
+}
+
+@media screen and (min-width: 700px) {
+    .tifondo{
+        display: block;
+        height: 60vh;
+    }
+    .tifondo__titulo{
+        float: right;
+        font-size: 3rem;
+        color: #7E4847 ;
+    }
+}

@@ -1,0 +1,65 @@
+.btn_lo{
+    text-align: center;
+    font-size: 1.2rem ; 
+    padding: 10px 10px;
+    background-color: #F1C49F;
+    font-family: Ibarra Real Nova;
+    color: #FFFFFF;
+    border-radius: 10%;
+    width: 20% ;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.loginn{
+        text-align: center;
+        padding-top: 0.4rem;
+        padding-bottom: 0.5rem;
+        width: 400px;
+        height: 350px;
+        margin: auto;
+
+    
+
+}
+
+.titulo__login{
+    font-family: Ibarra Real Nova;
+    font-size: 1.8rem;
+    text-align: center;
+    color: #7E4847;
+}
+
+
+.input__usuario{
+    
+    background-color: #FFFFFF;
+    padding: 10px 15px;
+    width: 340px;
+    border-radius: 10px;
+    border: 1px solid #F1C49F;
+    outline: none;
+    font-family: Trocchi;
+    color:#464646;
+    margin-bottom: 15px;
+}
+
+::placeholder{
+    font-family: Ibarra Real Nova;
+    color:#7E4847;
+    text-align: center;
+}
+
+
+.input__ingre{
+    background-color: #F1C49F;
+    padding: 8px 30px;
+    border-radius: 10px;
+    outline: none;
+    font-family: Trocchi;
+    color:#7E4847;
+    margin-bottom: 15px;
+    cursor: pointer;
+    text-decoration: none;
+    font-size: 0.8rem;
+}

@@ -1,0 +1,52 @@
+.cabeceras{
+    padding-right: 5rem;
+    padding-left: 15rem;
+    width: 100%;
+    background: #FFFBF7; 
+    box-sizing: border-box;
+    align-items: center;
+    padding-top: 0.42rem;
+    padding-bottom: 0.42rem;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.productos__contenido{
+    flex-wrap: wrap;
+}
+
+@media screen and (min-width: 0) {
+    .cabeceras {
+        display: block;
+        padding-left: 1rem;
+        padding-top: 0.2rem;
+        padding-bottom: 1rem;
+    }
+    
+}
+
+@media screen and (min-width: 700px) {
+    .cabeceras {
+        display: flex;
+    }
+    
+    
+}
+
+
+
+
+.producto__agregar{
+    float:right;
+    font-size: 1.2rem;
+    font-family: Quattrocento;
+    color: #F68977;
+    cursor: pointer;
+    text-decoration: none;
+
+}
+
+.fa-solid{
+    padding: 3px 5px;
+    cursor: pointer; 
+}
